@@ -1,12 +1,14 @@
-================== CustomDota v1.1 ==================
-author: by zxcvntx
-tested versions: 1.18
+# <h1>CustomDota v1.1</h1>
+<p>author: by zxcvntx</p>
+<p>tested versions: 1.18</p>
 
-Item stack: Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of Atos,
+# <p>Item stack: </p>
+    Radiance, Mask of Madness, Echo Sabre, Basher, Hand of Midas, Rod of Atos,
     Heart of Tarrasque, Force Staff, Armlet of Mordiggian, Witch Blade, Desolator, Blink dagger,
     Dagon
 
-Command stack: /get{item}
+# <p>Command stack:</p>
+    /get{item}
     Example: /getradiance
 
-To check crafts use JEI to items from command
+# To check crafts use JEI to items from command
